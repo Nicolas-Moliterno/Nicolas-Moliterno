@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 FullStack Developer <br>⚙️ UNIFEI - computer engineering<br>📖 UNICAMP - Learning about the master's degree<br>🔦  Software Developer at SIRIUS (LNLS)<br>🌱 I’m currently learning SQL, Python, C and looking for more<br>⚡ I have no inspiration. I just have ideas. Ideas and deadlines
+🔭 FullStack Developer <br>⚙️ UNIFEI - computer engineering<br>📖 UNICAMP - UNICAMP - Entering master's degree<br>🔦  Software Developer at SIRIUS (LNLS)<br>🌱 I’m currently learning SQL, Python, C and looking for more<br>⚡ I have no inspiration. I just have ideas. Ideas and deadlines
 
 
 ## 🌐 Socials:
