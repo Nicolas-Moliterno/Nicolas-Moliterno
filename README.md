@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 # 💫 About Me:
 🔭 FullStack Developer <br>⚙️ UNIFEI - Computer engineering<br>📖 UNICAMP - Entering master's degree<br>🔦  Software Developer<br>🌱 I’m currently learning SQL, Python, C and looking for more<br>⚡ I have no inspiration. I just have ideas. Ideas and deadlines
 
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My black GitHub koi" />
+</p>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nicolas.moliterno.965/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nicolas.moliterno/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://br.linkedin.com/in/nicolas-moliterno-65666322b) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://br.pinterest.com/moliterno3355/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@nicolas_moliterno) 
